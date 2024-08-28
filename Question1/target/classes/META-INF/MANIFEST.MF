@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Specification-Title: Question1
+Specification-Version: 0.0
+Implementation-Title: Question1
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.code.Question1.tester.DestinationHashGenerator
+Created-By: Maven Integration for Eclipse
+
